@@ -1,6 +1,6 @@
 # python依赖注入
 
-参考了[nonebot2](https://github.com/nonebot/nonebot2)中参数注入，完整说明见[此]()
+参考了[nonebot2](https://github.com/nonebot/nonebot2)中参数注入，完整说明见[此](https://qianxu.run/2022/12/15/python-dependency-injection/)
 
 对于用户定义的需要通过`Depends()`包含
 ```python
